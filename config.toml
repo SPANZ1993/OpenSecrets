@@ -1,0 +1,7 @@
+[data_to_pull]
+states = "All"
+politicians = "All"
+
+[data_to_pull.cycles]
+start = 2024
+end = 2024
